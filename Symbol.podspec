@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = 'Symbol'
-  spec.version      = '0.0.1'
+  spec.version      = '1.0.1'
   spec.summary      = 'Define image constants made easy.'
   spec.description  = <<-DESC
   Symbol provides several macros to generate SwiftUI's Image, UIKit's UIImage and AppKit's NSImage by defining a static string constant.
